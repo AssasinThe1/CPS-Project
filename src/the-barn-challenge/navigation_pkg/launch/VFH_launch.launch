@@ -1,0 +1,4 @@
+<launch>
+    <!-- Launch the Nav-VFH.py node from navigation_pkg -->
+    <node name="nav_vfh" pkg="navigation_pkg" type="Nav-VFH.py" output="screen"/>
+</launch>

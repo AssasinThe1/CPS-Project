@@ -1,0 +1,2 @@
+jackal/jackal_control:jackal/jackal_description:jackal/jackal_msgs:jackal/jackal_navigation:jackal/jackal_tutorials:jackal_desktop/jackal_desktop:jackal_desktop/jackal_viz:jackal_simulator/jackal_gazebo:jackal_simulator/jackal_simulator:the-barn-challenge/jackal_helper:the-barn-challenge/navigation_pkg
+-DCATKIN_DEVEL_PREFIX=/home/karan/barn_ws/devel -DCMAKE_INSTALL_PREFIX=/home/karan/barn_ws/install -G Unix Makefiles
